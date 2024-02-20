@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Anh.
-- 👀 I’m interested in data analysis and digital marketing
-- 🌱 I’m currently learning Excel, SQL and Python
+- 🏫 I am studying Digital Business Innovations in Haaga-Helia UAS, Finland
+- 👀 I’m interested in data analysis, digital marketing and user experience
+- 🌱 I’m currently learning Excel, SQL, Python and Power BI
 - 📫 How to reach me: linkedin.com/in/anh-hoang12
 - ⚡ Fun fact: I get mad when I lose in a badminton match
 
