@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anh-H-Projects
+- 👋 Hi, I’m Anh.
 - 👀 I’m interested in data analysis and digital marketing
 - 🌱 I’m currently learning Excel, SQL and Python
 - 📫 How to reach me: linkedin.com/in/anh-hoang12
